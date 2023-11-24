@@ -28,5 +28,4 @@
 ## Getting Started 🚦
 
 1. **Clone the Repository:**
-   ```bash
 gh repo clone ankitachowdhury02/COB-PassGen
