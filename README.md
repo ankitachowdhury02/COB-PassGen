@@ -31,27 +31,28 @@
 gh repo clone ankitachowdhury02/COB-PassGen
 
 
-Run PassGen:
+**Run PassGen:**
 Open the PassGen directory and launch the application to start generating secure passwords.
 <!-- Usage -->
-Usage 💻
+**Usage 💻**
 
 Choose your desired password length.
 Select character types to include (uppercase, lowercase, numbers, symbols).
 Click "Generate Password" to create a strong and secure password.
 Copy the generated password to your clipboard for immediate use.
+
 <!-- Contribution Guidelines -->
-Contribution Guidelines 🤝
+**Contribution Guidelines 🤝**
 
 PassGen is an open-source project, and we welcome contributions. If you'd like to contribute, please check out our Contribution Guidelines.
 
 <!-- Support and Feedback -->
-Support and Feedback 🙌
+**Support and Feedback 🙌**
 
 If you encounter any issues or have suggestions for improvement, please open an issue. We appreciate your feedback!
 
 <!-- License -->
-License 📄
+**License 📄**
 
 This project is licensed under the MIT License.
 
